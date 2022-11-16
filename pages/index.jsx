@@ -1,10 +1,8 @@
-import Layout from "./components/Layout";
-
 function Anasayfa() {
   return;
-  <Layout>
-    <Menu />
-  </Layout>;
+  <div>
+    <h1>selam</h1>;
+  </div>;
 }
 
 export default Anasayfa;
